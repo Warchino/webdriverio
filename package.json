@@ -1,0 +1,25 @@
+{
+  "name": "webdriverio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "wdio.conf.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "wdio-cucumber-framework": "^2.2.8",
+    "wdio-selenium-standalone-service": "0.0.11",
+    "wdio-spec-reporter": "^0.1.5",
+    "webdriverio": "^4.14.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jorgeflores742/webdriverio.git"
+  },
+  "author": "jorgeFlores",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jorgeflores742/webdriverio/issues"
+  },
+  "homepage": "https://github.com/jorgeflores742/webdriverio#readme"
+}
